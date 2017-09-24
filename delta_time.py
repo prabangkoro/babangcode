@@ -1,4 +1,4 @@
-# created by : babang / dreamhunter
+#author: babang/Dreamhunter
 import sys
 test_cases = open(sys.argv[1], 'r')
 
