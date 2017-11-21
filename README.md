@@ -1,9 +1,7 @@
-# babang's code
-just some piece of code.
+# Babang Mini Projects
+Some of these code is presented to ```Code Eval``` tasks, some of them for Nucleo ```MBED.org```.
 
-some of files here is in C , C++, Java, and python2.
-
-Some of these code is presented to codeeval question, some of them for Nucleo MBED.org.
-feel free to discuss with me ! :)
-
-I hope these will help you ...
+## Contact Me
+If you need any information for this project or something else related to it please kindly contact me on:
+* [E-Mail](mailto:bagusprabangkoro@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/bagusprabangkoro/)
